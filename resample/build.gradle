@@ -25,6 +25,7 @@ android {
         }
     }
 
+    namespace 'com.jackz314.resample'
 }
 
 dependencies {
